@@ -20,7 +20,8 @@
 [![](https://visitcount.itsvg.in/api?id=khaled-nagah11&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
+# <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=70 height=80> GitHub Stats :
+<div align="center">
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
  -->
 <img src="https://github-readme-stats.vercel.app/api?username=khaled-nagah11&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="400">
@@ -30,8 +31,7 @@
 <br>
 
 
-# <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=70 height=80> GitHub Stats :
-<div align="center">
+
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=30 height=30> Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/khaled.hasanen.16) 
