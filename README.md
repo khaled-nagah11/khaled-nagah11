@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">
+<br> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"> Hello there,I'm Zienab Mohamed <img src="https://visitcount.itsvg.in/api?id=zenab12&icon=0&color=0" style="display:inline-block;margin:auto auo">
+ <br>
+</h1>
+
+
+
 
 <!--
 **khaled-nagah11/khaled-nagah11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
